@@ -93,9 +93,9 @@ O projeto está organizado em módulos para facilitar manutenção e escalabilid
 3. Crie e ative um ambiente virtual (opcional, mas recomendado):
 
    ```bash
-    python -m venv venv
-    source venv/bin/activate   # Linux/Mac
-    venv\Scripts\activate      # Windows
+   python -m venv venv
+   source venv/bin/activate   # Linux/Mac
+   venv\Scripts\activate      # Windows
 
 4. Instale as dependências:
 
@@ -111,7 +111,7 @@ O projeto está organizado em módulos para facilitar manutenção e escalabilid
 6. O dashboard abrirá automaticamente no navegador 
 
   ``` bash
-  [http://localhost:8501](http://localhost:8501)
+ [http://localhost:8501](http://localhost:8501)
   
   ```
 ### 2️⃣ Opção 2:
