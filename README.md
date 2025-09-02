@@ -43,16 +43,14 @@ Aqui estão algumas capturas de tela que mostram a Aba 1 e Aba 2 do projeto
 
 O projeto está organizado em módulos para facilitar manutenção e escalabilidade:
 
-```bash
-📂 src/
-├── 📄 app.py          # 🎨 Interface principal (Streamlit) → Dashboard + CRUD
-├── ⚙️ crud.py         # 🔄 Operações de banco (listar, inserir, atualizar, excluir, importar CSV inicial)
-├── 🗄️ database.py     # 🛢️ Conexão e criação da tabela SQLite
-├── 📂 data/
-│   └── 📑 dataset_saude.csv   # 📥 Base inicial de dados (importada no 1º uso)
-├── 📂 img/            # 🖼️ Prints da aplicação
-└── 🗃️ consultas.db    # 📌 Banco de dados SQLite (gerado automaticamente)
-```
+- 📂 **src/**
+  - 📄 **app.py** → 🎨 Interface principal (Streamlit) → Dashboard + CRUD
+  - ⚙️ **crud.py** → 🔄 Operações de banco (listar, inserir, atualizar, excluir, importar CSV inicial)
+  - 🗄️ **database.py** → 🛢️ Conexão e criação da tabela SQLite
+  - 📂 **data/**
+    - 📑 **dataset_saude.csv** → 📥 Base inicial de dados (importada no 1º uso)
+  - 📂 **img/** → 🖼️ Prints da aplicação
+  - 🗃️ **consultas.db** → 📌 Banco de dados SQLite (gerado automaticamente)
 
 ## 💾 Fluxo de Dados
 
