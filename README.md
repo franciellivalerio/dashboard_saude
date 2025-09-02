@@ -73,14 +73,6 @@ O projeto está organizado em módulos para facilitar manutenção e escalabilid
 * [Streamlit](https://streamlit.io/)
 * [SQLite3](https://www.sqlite.org/)
 ---
-## 🖼️ Algumas Visualizações
-
-![Início Dashboard](img/pag_inicial.png)
-
-![Boxplot do Tempo de Espera por Especialidade](img/tempo_espera.png)
-
----
-
 ## 🚀 Como Rodar o Projeto
 
 ### 1️⃣ Opção 1:
@@ -94,9 +86,9 @@ O projeto está organizado em módulos para facilitar manutenção e escalabilid
    
 2. Entre no repositório
 
-``` bash
-cd dashboard_saude
-````
+  ``` bash
+  cd dashboard_saude
+  ````
 
 3. Crie e ative um ambiente virtual (opcional, mas recomendado):
 
@@ -118,10 +110,10 @@ cd dashboard_saude
 
 6. O dashboard abrirá automaticamente no navegador 
 
-``` bash
-[http://localhost:8501](http://localhost:8501)
-
-```
+  ``` bash
+  [http://localhost:8501](http://localhost:8501)
+  
+  ```
 ### 2️⃣ Opção 2:
 
 #### ☁️ Deploy no Streamlit Cloud
@@ -139,5 +131,3 @@ cd dashboard_saude
 Projeto desenvolvido por **Francielli Valerio** 👩🏿‍💻  
 - [LinkedIn](https://www.linkedin.com/in/franciellivalerio/)  
 - [X (Twitter)](https://x.com/httpsfranverse)
-
-```
