@@ -85,12 +85,12 @@ O projeto está organizado em módulos para facilitar manutenção e escalabilid
 1. Clone este repositório:
 
    ```bash
-   git clone [https://github.com/seu-usuario/dashboard_saude.git](https://github.com/seu-usuario/dashboard_saude.git)
+    git clone [https://github.com/seu-usuario/dashboard_saude.git](https://github.com/seu-usuario/dashboard_saude.git)
    
 2. Entre no repositório
 
   ``` bash
-  cd dashboard_saude
+   cd dashboard_saude
   ````
 
 3. Crie e ative um ambiente virtual (opcional, mas recomendado):
@@ -114,7 +114,7 @@ O projeto está organizado em módulos para facilitar manutenção e escalabilid
 6. O dashboard abrirá automaticamente no navegador 
 
   ``` bash
-[http://localhost:8501](http://localhost:8501)
+   [http://localhost:8501](http://localhost:8501)
   
   ```
 ### 2️⃣ Opção 2:
