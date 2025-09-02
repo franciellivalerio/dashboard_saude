@@ -4,6 +4,9 @@ Este projeto é um **dashboard interativo** desenvolvido com **Streamlit, Pandas
 
 O objetivo é explorar dados de saúde de forma **visual e intuitiva**, permitindo identificar padrões de consultas, receitas médicas, satisfação de pacientes e outras métricas importantes.
 
+
+### 📌 **Acesse o projeto online:** [Dashboard de Saúde no Streamlit Cloud](https://dashboardsaude.streamlit.app/)
+
 ---
 
 ## 🚀 Funcionalidades
@@ -115,8 +118,12 @@ O projeto está organizado em módulos para facilitar manutenção e escalabilid
   
   ```
 ### 2️⃣ Opção 2:
-
 #### ☁️ Deploy no Streamlit Cloud
+
+Este projeto já está disponível online em:  
+👉 [Dashboard de Saúde no Streamlit Cloud](https://dashboardsaude.streamlit.app/)
+
+Para publicar o seu próprio fork:
 
 1. Suba este projeto para um repositório no **GitHub**.  
 2. Acesse o [Streamlit Cloud](https://streamlit.io/cloud).  
